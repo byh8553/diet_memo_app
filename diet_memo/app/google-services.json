@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310743995870",
+    "project_id": "diet-memo-app-e7053",
+    "storage_bucket": "diet-memo-app-e7053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310743995870:android:ca54aaee1cf5a96464794f",
+        "android_client_info": {
+          "package_name": "com.happyvin.diet_memo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310743995870-3n7a96r2cd6sumbt9ilf15qetlv5eiv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkEG0CuEVcRumozyjWKoATKnKuz9BRztI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310743995870-3n7a96r2cd6sumbt9ilf15qetlv5eiv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
